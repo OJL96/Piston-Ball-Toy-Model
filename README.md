@@ -6,7 +6,7 @@
 * Binary states
 * Ball does not take position in between pistons
 * Ball does not move backwards
-* 
+
 > Toy Model 2.0
 * Multi-value states
 * Agent states can only deviate by 1
