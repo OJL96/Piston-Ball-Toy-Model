@@ -1,5 +1,9 @@
 
-### _Toy Model Implementation of the Piston Ball Multi-Agent Problem_
+# _Toy Model Implementation of the Piston Ball Multi-Agent Problem_
+
+### Summary 
+The multi-agent piston ball game requires several pistons (or agents) to work together to move a ball from one side to the other. The original method uses images and a CNN policy to optimise the pistons to find a solution. Images are large and even after resizing, they contain a lot of redundant information. The scope of this project is to construct a toy model that simplifies this problem, being able to be solved quicker and with less computational demand. Please read the report for a more detailed analysis.
+### Contents
 
 > [Report](https://github.com/OJL96/Piston-Ball-Toy-Model/files/7219483/20316736_PHYS4037.pdf) (Warning! Its long. Please refer to Chapter 4 and beyond for details about new proposed methodology)  
 
